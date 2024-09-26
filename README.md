@@ -29,4 +29,4 @@ This project implements a virtual mouse using computer vision and hand tracking 
    ```
 3. Ensure your webcam is working, and move your hand within the frame to control the mouse pointer.
 
-Feel free to customize or extend this project for your needs!
+
